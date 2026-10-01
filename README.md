@@ -27,7 +27,7 @@ I build software that connects directly with hardware, from sensor interfacing t
 * **Programming:** Python, C/C++, MicroPython, Bash
 * **AI & Computer Vision:** YOLO, OpenCV, ONNX, PyTorch, Brevitas
 * **FPGA:** Vitis HLS, AMD FINN, Verilator (AMD Kria KV260)
-* **Hardware & Prototyping:** Raspberry Pi, Arduino, ESP32, OpenMV, SolidWorks, DipTrace
+* **Hardware & Prototyping:** Raspberry Pi, Arduino, ESP32, OpenMV, SolidWorks
 * **Web & APIs:** FastAPI, Streamlit
 
 ### 🚀 Projects
